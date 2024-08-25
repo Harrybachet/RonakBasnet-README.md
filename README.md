@@ -3,7 +3,7 @@
 Hi, I am Ronak Basnet. CODING FOR FUN!!
 
 
-![Sid Ghimire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidghimire&show_icons=true&theme=radical)
+![Sid Ghimire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonakBasnet&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidghimire&layout=compact&theme=radical)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sid_ghimire)](https://twitter.com/sid_ghimire)
