@@ -2,8 +2,6 @@
 
 Hi, I am Ronak Basnet. CODING FOR FUN!!
 
-![Ronak Basnet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonakBasnet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonakBasnet&layout=compact&theme=radical)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/home)](https://x.com/home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ronak-basnet-53080628a/)](https://www.linkedin.com/in/ronak-basnet-53080628a/)
