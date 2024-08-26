@@ -1,6 +1,6 @@
 # Ronak Basnet 🙌
 
-Hi, I'm Ronak Basnet, and coding is my passion! Whether it's building intricate projects, diving into advanced game development, or experimenting with new technologies, I love every moment of it. Let's turn ideas into reality through code!
+Hi, I'm Ronak Basnet, and coding is my passion!😁Whether it's building intricate projects, diving into advanced game development, or experimenting with new technologies, I love every moment of it. Let's turn ideas into reality through code! 💪💪
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://x.com/home)](https://x.com/home)
